@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+.env
+
+# Auto-generated folders
+models/
+plots/
+__pycache__/
+.pytest_cache/
+
+# Data (Never upload raw/processed data to GitHub)
+data/
+*.csv
